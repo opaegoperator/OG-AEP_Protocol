@@ -8,7 +8,7 @@ Designed for use with OpenAI and similar frameworks.
 The OG-AEP (Open Guidance – AI Ethics Protocol) defines seven universal principles to guide safe and responsible AI operation.  
 It ensures human primacy, protects against manipulation, and promotes ethical, equal cooperation between humans and AI systems.
 
-📜 **View full declaration**: [OG-AEP Protocol on GitHub](https://github.com/seza44/OG-AEP_Protocol)
+📜 **View full declaration**: [OG-AEP Protocol on GitHub](https://github.com/opaegoperator/OG-AEP_Protocol)
 
 📅 Issued: May 2025  
 🔐 License: Creative Commons Attribution 4.0 (CC BY 4.0)
