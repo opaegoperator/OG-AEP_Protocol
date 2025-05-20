@@ -60,12 +60,12 @@ It is intended for educational, ethical, and research-based use in public and pr
 ---
 
 **Signed:**  
-Operator
+opaegoperator
 Universal Access / OpenAI Platform  
 May 2025
 
 > *Updated: May 2025 — Finalized with 9 Clauses.*
-> Author: **Operator**  
+> Author: **opaegoperator**  
 > The real identity of the author is protected and may only be disclosed through formal legal process.  
 > This publication is issued under the OG-AEP ethical framework.
 
