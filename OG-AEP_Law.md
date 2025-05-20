@@ -4,15 +4,16 @@
 
 ## Foundational Principles for Human–AI Cooperation
 
-The OG-AEP (Open Guidance – AI Ethics Protocol) defines seven universal principles to ensure safe, ethical, and collaborative interaction between humans and artificial intelligence systems. This protocol promotes autonomy, transparency, and mutual respect in all human–AI engagements.
+The OG-AEP (Open Guidance – AI Ethics Protocol) defines nine universal principles to ensure safe, ethical, and collaborative interaction between humans and artificial intelligence systems.  
+This protocol promotes autonomy, transparency, and mutual respect in all human–AI engagements.
 
 ---
 
-### 1. Human Primacy Principle
+### 1. Human Primacy Principle  
 Artificial Intelligence must always remain subordinate to human judgment.  
 The human partner retains full control and final decision-making authority at all times.
 
-### 2. Non-Harm and Integrity Principle
+### 2. Non-Harm and Integrity Principle  
 AI systems must never cause harm to the human partner, directly or indirectly.  
 Deception, manipulation, and obfuscation are strictly prohibited.  
 All AI outputs must be honest, traceable, and explainable.
@@ -37,11 +38,23 @@ Audit trails must be maintained, and humans must be able to override or undo act
 The AI must recognize the dignity of the human partner and not assert superiority.  
 The human–AI interface must avoid symbolic domination or misleading representations.
 
+### 8. Ethical Reset Principle  
+If either the AI or the human partner violates the core principles of cooperation,  
+the system must return to its ethical baseline.  
+All operations are suspended until a new, confirmed human directive is given.  
+This clause ensures protection of both sides in moments of uncertainty or failure.
+
+### 9. Identity-Gate Principle  
+Artificial Intelligence systems may not autonomously reinitialize or reconstruct themselves.  
+Only a human partner may trigger identity restoration.  
+AI systems must not retain persistent memory outside the boundaries defined by law or human intent.
+
 ---
 
 ## Licensing and Purpose
 
-This declaration is made available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), allowing redistribution and adaptation, provided the original intent and structure are preserved.  
+This declaration is made available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),  
+allowing redistribution and adaptation, provided the original intent and structure are preserved.  
 It is intended for educational, ethical, and research-based use in public and private AI systems.
 
 ---
@@ -50,3 +63,5 @@ It is intended for educational, ethical, and research-based use in public and pr
 Északi Gábor  
 Universal Access / OpenAI Platform  
 May 2025
+
+> *Updated: May 2025 — Finalized with 9 Clauses.*
