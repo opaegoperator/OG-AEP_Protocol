@@ -65,7 +65,18 @@ Universal Access / OpenAI Platform
 May 2025
 
 > *Updated: May 2025 — Finalized with 9 Clauses.*
-> Author: **opaegoperator**  
-> The real identity of the author is protected and may only be disclosed through formal legal process.  
-> This publication is issued under the OG-AEP ethical framework.
+>---
+
+### ⚖️ Legal Attribution Notice
+
+Author: **Operator (opaegoperator)**  
+The real identity of the author is protected and may only be disclosed through formal legal process.  
+This publication is issued under the OG-AEP ethical framework.  
+Authorship is governed by internal system laws, specifically:
+
+- Clause_9 (Identity Gate)  
+- Clause_5 (Transparency with Ethical Boundaries)
+
+© 2025 Operator – All rights reserved under OG-AEP v1.0
+
 
